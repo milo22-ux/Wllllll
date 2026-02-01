@@ -1,5 +1,12 @@
 {
-  "users": [
-    {}
-  ]
+    "users": [
+        {},
+        {
+            "username": "exvak",
+            "key": "C2E6DB1DDBE362CA",
+            "hwid": "c3457096a65759b0cc8b2b1a1d899d5315bdb7248e87a347ffb8e2b692ec2117",
+            "expiry": "19/06/53",
+            "role": "user"
+        }
+    ]
 }
