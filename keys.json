@@ -1,18 +1,1 @@
-{
-    "users": [
-        {
-            "username": "exvak",
-            "key": "test",
-            "hwid": "never",
-            "expiry": "19/12/25",
-            "role": "tester"
-        },
-        {
-            "username": "exvak",
-            "key": "800C2C98B8F5444C",
-            "hwid": "sjshsh",
-            "expiry": "07/10/28",
-            "role": "member"
-        }
-    ]
-}
+[]
